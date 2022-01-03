@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Quo0qEpCi6x5MmXVK0qX3mmGjxykUS5L4sPODTGg5STM/iNz3JVdvseadN916Q32MuD2gPflUq3DvlpMeqyL1w==",
+  "dgSpecHash": "Uw1KdnP5UINnUP8+2gOO9i4vLmqQX8y+UYAUTvYn4LaCHFTBuOjbSVc4eSEAb1jTYli4DTW6x75XbpwiU9Mzgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jgoos\\source\\repos\\ConversionError\\ConversionError\\ConversionError.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jgoos\\.nuget\\packages\\gembox.document\\33.0.1345\\gembox.document.33.0.1345.nupkg.sha512",
+    "C:\\Users\\jgoos\\.nuget\\packages\\gembox.document\\33.0.1372\\gembox.document.33.0.1372.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",

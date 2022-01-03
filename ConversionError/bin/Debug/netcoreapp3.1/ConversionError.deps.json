@@ -8,29 +8,29 @@
     ".NETCoreApp,Version=v3.1": {
       "ConversionError/1.0.0": {
         "dependencies": {
-          "GemBox.Document": "33.0.1345"
+          "GemBox.Document": "33.0.1372"
         },
         "runtime": {
           "ConversionError.dll": {}
         }
       },
-      "GemBox.Document/33.0.1345": {
+      "GemBox.Document/33.0.1372": {
         "dependencies": {
           "Portable.BouncyCastle": "1.8.9",
           "System.Drawing.Common": "5.0.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/GemBox.Document.dll": {
-            "assemblyVersion": "33.0.0.1345",
-            "fileVersion": "33.0.310.1345"
+            "assemblyVersion": "33.0.0.1372",
+            "fileVersion": "33.0.310.1372"
           }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netcoreapp3.1/GemBox.Document.dll": {
             "rid": "unix",
             "assetType": "runtime",
-            "assemblyVersion": "33.0.0.1345",
-            "fileVersion": "33.0.200.1345"
+            "assemblyVersion": "33.0.0.1372",
+            "fileVersion": "33.0.200.1372"
           }
         }
       },
@@ -95,12 +95,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GemBox.Document/33.0.1345": {
+    "GemBox.Document/33.0.1372": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2LPL+czT10SASxy78LzaTXgc/P08bXfw4SMrfXceWCLIkcJjVPFKBwZ66vaiJs64ZZ51SI5O/D6NLHpEtFWzxw==",
-      "path": "gembox.document/33.0.1345",
-      "hashPath": "gembox.document.33.0.1345.nupkg.sha512"
+      "sha512": "sha512-ioL3q2ES/qiFNJYMstXe7+JRE6IhxrbQjJ2gy5OjO9Coo9siHMnhzJW78n4citFkjXhTDa+rDruLa/mu06REwQ==",
+      "path": "gembox.document/33.0.1372",
+      "hashPath": "gembox.document.33.0.1372.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/5.0.0": {
       "type": "package",

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GemBox.Document/33.0.1345": {
+      "GemBox.Document/33.0.1372": {
         "type": "package",
         "dependencies": {
           "Portable.BouncyCastle": "1.8.9",
@@ -82,17 +82,17 @@
     }
   },
   "libraries": {
-    "GemBox.Document/33.0.1345": {
-      "sha512": "2LPL+czT10SASxy78LzaTXgc/P08bXfw4SMrfXceWCLIkcJjVPFKBwZ66vaiJs64ZZ51SI5O/D6NLHpEtFWzxw==",
+    "GemBox.Document/33.0.1372": {
+      "sha512": "ioL3q2ES/qiFNJYMstXe7+JRE6IhxrbQjJ2gy5OjO9Coo9siHMnhzJW78n4citFkjXhTDa+rDruLa/mu06REwQ==",
       "type": "package",
-      "path": "gembox.document/33.0.1345",
+      "path": "gembox.document/33.0.1372",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "PackageIcon.png",
         "README.md",
         "Readme.txt",
-        "gembox.document.33.0.1345.nupkg.sha512",
+        "gembox.document.33.0.1372.nupkg.sha512",
         "gembox.document.nuspec",
         "lib/net35/GemBox.Document.dll",
         "lib/net35/GemBox.Document.xml",
@@ -218,7 +218,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "GemBox.Document >= 33.0.1345"
+      "GemBox.Document >= 33.0.1372"
     ]
   },
   "packageFolders": {
@@ -265,7 +265,7 @@
         "dependencies": {
           "GemBox.Document": {
             "target": "Package",
-            "version": "[33.0.1345, )"
+            "version": "[33.0.1372, )"
           }
         },
         "imports": [
