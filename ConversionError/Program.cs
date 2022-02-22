@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using GemBox.Document;
 
@@ -12,7 +11,7 @@ namespace ConversionError
         {
             ComponentInfo.SetLicense("");
 
-            string[] files = { "contract3.docx", "contract4.docx", "contract1.docx" };
+            string[] files = { "newContract1.docx", "newContract2.docx" };
 
             var destination = new DocumentModel();
             bool first = true;
