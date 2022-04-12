@@ -44,7 +44,7 @@
           "dependencies": {
             "GemBox.Document": {
               "target": "Package",
-              "version": "[33.0.1372, )"
+              "version": "[33.0.1446, )"
             }
           },
           "imports": [

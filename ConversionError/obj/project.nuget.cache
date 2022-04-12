@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw1KdnP5UINnUP8+2gOO9i4vLmqQX8y+UYAUTvYn4LaCHFTBuOjbSVc4eSEAb1jTYli4DTW6x75XbpwiU9Mzgw==",
+  "dgSpecHash": "dOwaO4Cc8Vkl8+E0+fj4L8ku3OarRGz4sONbNp4+OGFmnry4LjIvKFr8Wbqfu3SweNIc2Yu9FDkoXGW5nu1eNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jgoos\\source\\repos\\ConversionError\\ConversionError\\ConversionError.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jgoos\\.nuget\\packages\\gembox.document\\33.0.1372\\gembox.document.33.0.1372.nupkg.sha512",
+    "C:\\Users\\jgoos\\.nuget\\packages\\gembox.document\\33.0.1446\\gembox.document.33.0.1446.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\jgoos\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\jgoos\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+    "C:\\Users\\jgoos\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\jgoos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\jgoos\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
